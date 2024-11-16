@@ -3,11 +3,17 @@
 </p>
 <h1 align="center">Hi 👋, I'm Lakshay Kapur</h1>
 <h3 align="center">Crafting Intelligence Through Code and Data</h3>
-- 🔭 I’m currently working on **Building Data Intensive Applications**  
-- 🌱 I’m currently learning **Deep Learning, Generative AI, Big Data**  
-- 👯 I’m looking to collaborate on **Data Science Research and AI Applications**  
-- 📫 How to reach me: **lakshaykapur1997@gmail.com**  
-- 📄 Know about my experiences: **https://www.linkedin.com/in/lakshay-kapur/**
+
+- 🔭 I’m currently working on **Building Data Intensive Applications**
+
+- 🌱 I’m currently learning **Deep Learning, Generative AI, Big Data**
+
+- 👯 I’m looking to collaborate on **Data Science Research and AI Applications**
+
+- 📫 How to reach me: [lakshaykapur1997@gmail.com](mailto:lakshaykapur1997@gmail.com)
+
+- 📄 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/lakshay-kapur/)
+
 <h3 align="left">Connect with me:</h3>
 <div id="badges">
   <a href="https://www.linkedin.com/in/lakshay-kapur/">
