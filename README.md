@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://raw.githubusercontent.com/LakshayKap/LakshayKap/main/assets/github_banner.mp4">
-   <img src="https://raw.githubusercontent.com/LakshayKap/LakshayKap/main/assets/github_banner.png" alt="Lakshay's MasterHead" style="width: 728px; height: 250px;">
+    <img src="https://raw.githubusercontent.com/LakshayKap/LakshayKap/main/assets/github_banner_thumbnail.png" alt="Lakshay's MasterHead" style="width: 728px; height: 250px;">
+  </a>
 </p>
 <h1 align="center">Hi 👋, I'm Lakshay Kapur</h1>
 <h3 align="center">Crafting Intelligence Through Code and Data</h3>
