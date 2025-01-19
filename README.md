@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://raw.githubusercontent.com/LakshayKap/LakshayKap/main/assets/github_banner.mp4">
+  <a href="https://raw.githubusercontent.com/LakshayKap/LakshayKap/main/assets/g(1).mp4">
     <img src="https://raw.githubusercontent.com/LakshayKap/LakshayKap/main/assets/github_banner.png" alt="Lakshay's MasterHead" style="width: 728px; height: 250px;">
   </a>
 </p>
